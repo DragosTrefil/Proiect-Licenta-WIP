@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "user": "ManeaCostel",
+      "pass": "123abc",
+      "email": "costelmanea@gmai.com",
+      "tel": "0724316397",
+      "lastName": "Manea",
+      "name": "Costel",
+      "participare": ["Matematică","Limba Germană","Contabilitatea Instituțiilor De Credit","Curs Python"],
+      "id": 1
+    }
+  ]
+}

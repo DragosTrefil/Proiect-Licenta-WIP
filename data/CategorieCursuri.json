@@ -1,0 +1,67 @@
+{
+  "stiinte":[
+    {
+        "categorieCurs": "Stiințe",
+        "curs": ["Fizică", "Matematica"] ,
+        "durataOre": [40,40],
+        "durataMinute": [90, 120],
+        "profesor": ["Ionescu Robert","Ionescu Robert"],
+        "descriere": "Obiectul de studiu al științelor exacte sunt fapte și principii ce pot fi demonstrate. In cursul de Matematică vom studia relațiile cantitative, modelele de structură, de schimbare și de spațiu. Cursul de fizică care reprezintă o disciplină teoretică cat și experimentală, vom studia aspectele fundamentale ale realitații și a interacțiunilor dintre acestea.",
+        "id": 1
+    }
+  ],
+
+  "limbistraine": [
+
+    {
+        
+        "categorieCurs": "Limbi Străine",
+      "curs": ["Limba Engleză","Limba Franceză","Limba Germană"],
+      "durataOre": [30,30,30],
+      "durataMinute":[60,60,60],
+      "profesor": ["Voinea Gabriel","Voinea Gabriel","Voinea Gabriel"],
+      "descriere": "In cursurile de limbi străine iți vei putea dezvolta competențele lingvistice. Cursurile cuprind lecții de gramatică, vocabular cat și pronunție.",
+      "id": 2
+    }
+  ],
+
+"contabilitate": [
+
+    {
+        
+        "categorieCurs": "Contabilitate",
+        "curs":["Introducere În Contabilitate","Contabilitate De Gestiune","Contabilitate Financiară","Contabilitatea Instituțiilor De Credit"],
+        "durataOre" :[36,36,36,36],
+        "durataMinute": [120,120,120,120],
+        "profesor": ["Sava Daniel","Sava Daniel","Sava Daniel","Sava Daniel"],
+        "descriere": "Contabilitatea este arta stapânirii afacerilor ce se află la baza oricărei întreprinderi și se ocupa cu măsurarea, evaluarea, cunoașterea, gestiunea, controlul activelor, datoriilor și multe altele.",
+        "id": 3
+    }
+  ],
+
+  "analiza": [
+    {
+        
+        "categorieCurs": "Analiză",
+        "curs" : ["Introducere În Analiză","Analiză Economică Financiară"],
+        "durataOre":[25,30],
+        "durataMinute": [60,60],
+        "profesor": ["Carisa Vasilica","Carisa Vasilica"],
+        "descriere":"Analiza economico-financiară reprezintă un ansamblu de concepte, metode, tehnici, procedee şi instrumente care asigură tratarea informaţiilor interne şi externe, în vederea formulării unor aprecieri pertinente referitoare la situaţia economico-financiară a unui agent economic, identificarea factorilor, cauzelor şi condiţiilor care au determinat-o, precum şi a rezervelor interne de îmbunătăţire a acesteia, din punctul de vedere al utilizării eficiente a resurselor umane, materiale şi financiare.",
+        "id": 4
+    }
+  ],
+
+  "informatica": [
+    {
+        
+    "categorieCurs": "Informatică",
+    "curs": ["Tehnologia Informației Și A Comunicațiilor","Curs HTML","Curs JavaScript","Curs Python","Curs C#"],
+    "durataOre": [45,45,45,45,45],
+    "durataMinute": [180,180,180,180],
+    "profesor":["Gabureanu Gabriela","Gabureanu Gabriela","Gabureanu Gabriela","Gabureanu Gabriela","Gabureanu Gabriela"],
+    "descriere": "Cursurile noastre de informatică iți oferă tot ce ai nevoie pentru a pașii în lumea dezvoltării a diferitelor sisteme informatice.",
+    "id": 5
+    }
+  ]
+}

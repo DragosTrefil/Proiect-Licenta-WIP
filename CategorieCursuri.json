@@ -1,0 +1,48 @@
+{
+  "categorii":[
+  {
+      "categorieCurs": "Stiințe",
+      "curs": ["Fizică", "Matematica"] ,
+      "durataOre": [40,40],
+      "durataMinute": [90, 120],
+      "profesor": ["Ionescu Robert","Ionescu Robert"],
+      "id": 1
+  },
+  {
+      
+      "categorieCurs": "Limbi Străine",
+    "curs": ["Limba Engleză","Limba Franceză","Limba Germanană"],
+    "durataOre": [30,30,30],
+    "durataMinute":[60,60,60],
+    "profesor": ["Voinea Gabriel","Voinea Gabriel","Voinea Gabriel"],
+    "id": 2
+  },
+  {
+      
+      "categorieCurs": "Contabilitate",
+      "curs":["Introducere În Contabilitate","Contabilitate De Gestiune","Contabilitate Financiară","Contabilitatea Instituțiilor De Credit"],
+      "durataOre" :[36,36,36,36],
+      "durataMinute": [120,120,120,120],
+      "profesor": ["Sava Daniel","Sava Daniel","Sava Daniel","Sava Daniel"],
+      "id": 3
+  },
+  {
+      
+      "categorieCurs": "Analiză",
+      "curs" : ["Introducere În Analiză","Analiză Economică Financiară"],
+      "durataOre":[25,30],
+      "durataMinute": [60,60],
+      "profesor": ["Carisa Vasilica","Carisa Vasilica"],
+      "id": 4
+  },
+  {
+      
+  "categorieCurs": "Informatică",
+  "curs": ["Tehnologia Informației Și A Comunicațiilor","Curs HTML","Curs JavaScript","Curs Python","Curs C#"],
+  "durataOre": [45,45,45,45,45],
+  "durataMinute": [180,180,180,180],
+  "profesor":["Gabureanu Gabriela","Gabureanu Gabriela","Gabureanu Gabriela","Gabureanu Gabriela","Gabureanu Gabriela"],
+  "id": 5
+  }
+]
+}
